@@ -1,0 +1,4 @@
+- Avocados
+- Cheese
+- Bananas
+- Pineapple

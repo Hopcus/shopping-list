@@ -3,3 +3,4 @@
 - Bananas
 - Pineapple
 - Blueberries
+- Milk
